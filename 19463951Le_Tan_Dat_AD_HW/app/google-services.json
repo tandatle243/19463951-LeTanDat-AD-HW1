@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16171398425",
+    "project_id": "le-tan-dat-ad-hw",
+    "storage_bucket": "le-tan-dat-ad-hw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16171398425:android:6df8c3e5e50697040d8188",
+        "android_client_info": {
+          "package_name": "com.example.a19463951_le_tan_dat_ad_hw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16171398425-n17mqerqdfnii8df1mi0kvqht2a36438.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvEAdOngJCb4GtRxt-TejTARsnoAnSV-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16171398425-n17mqerqdfnii8df1mi0kvqht2a36438.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
